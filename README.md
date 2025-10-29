@@ -200,6 +200,7 @@ Example:
 ## 👨‍💻 Author
 
 **Harshith B**
+
 BE in Computer Science and Engineering
 BMS College of Engineering
 
